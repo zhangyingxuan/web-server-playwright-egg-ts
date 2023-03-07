@@ -1,0 +1,6 @@
+{
+  "name": "invoice-makeout",
+  "eggModule": {
+    "name": "invoiceMakeout"
+  }
+}
